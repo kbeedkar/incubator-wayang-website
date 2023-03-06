@@ -1,0 +1,16 @@
+{
+  "name": "incubator-wayang-website",
+  "version": "1.0.0",
+  "description": "Wayang website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The Apache Wayang Project Team",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.3",
+    "popper.js": "^1.16.1"
+  }
+}
